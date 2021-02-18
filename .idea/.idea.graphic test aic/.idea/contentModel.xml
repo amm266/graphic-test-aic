@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\amm\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\amm\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_graphic test aic.-702882783.00" t="ExcludeRecursive" />
+    <e p="C:\Users\amm\Desktop\AIC\graphic test aic" t="IncludeFlat">
+      <e p=".git\info\exclude" t="IncludeRecursive" />
+      <e p="graphic test aic.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
